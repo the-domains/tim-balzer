@@ -1,7 +1,7 @@
 name: Tim Balzer
 favicon: null
-layout_spectrum: 0.4765149138402194
-typography_spectrum: 0.25865978049114347
+layout_spectrum: 0.49463468650355935
+typography_spectrum: 0.5401734735351056
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.47599787125363946
-  lightness: 0.7033775937743485
-  saturation: 0.7970253846142441
-  rhythmicContrast: 0.002398889744654298
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.502293718745932
+  lightness: 0.4741838783957064
+  saturation: 0.8700995619874448
+  rhythmicContrast: 0.22593637206591666
 purpose: []
