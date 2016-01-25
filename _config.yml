@@ -1,6 +1,6 @@
 name: Tim Balzer
 favicon: null
-layout_spectrum: 0.9509
+layout_spectrum: 0.83956
 typography_spectrum: 0.77522
 title: tb
 cta:
@@ -22,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.2703123700339347
+  brandStrength: 0
   lightness: 0.4314014797564596
   saturation: 0.9833361837081611
   rhythmicContrast: 0.36580923292785883
